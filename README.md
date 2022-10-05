@@ -1,2 +1,0 @@
-# edubridge
-new repository

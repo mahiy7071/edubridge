@@ -1,0 +1,8 @@
+# edubridge
+new repository
+shopping list :
+apple
+orange
+mongo
+bannana
+carrots
